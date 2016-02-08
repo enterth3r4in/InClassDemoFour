@@ -1,1 +1,6 @@
 C:\Users\as600\Documents\GitHub\InClassDemoFour\InClassDemoFour\bin\Debug\InClassDemoFour.exe.config
+C:\Users\as600\Documents\GitHub\InClassDemoFour\InClassDemoFour\bin\Debug\InClassDemoFour.exe
+C:\Users\as600\Documents\GitHub\InClassDemoFour\InClassDemoFour\bin\Debug\InClassDemoFour.pdb
+C:\Users\as600\Documents\GitHub\InClassDemoFour\InClassDemoFour\obj\Debug\InClassDemoFour.csprojResolveAssemblyReference.cache
+C:\Users\as600\Documents\GitHub\InClassDemoFour\InClassDemoFour\obj\Debug\InClassDemoFour.exe
+C:\Users\as600\Documents\GitHub\InClassDemoFour\InClassDemoFour\obj\Debug\InClassDemoFour.pdb
